@@ -1,3 +1,5 @@
-Project: Guessing game
-timestamp: Wed Oct 11 22:24:48 IST 2017 
-Total number of lines of code is :       28
+**Project:** Guessing game    
+
+**timestamp:** Sat Oct 28 21:57:19 IST 2017    
+
+**Total number of lines of code is:**      28
